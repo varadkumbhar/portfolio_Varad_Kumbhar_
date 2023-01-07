@@ -1,0 +1,106 @@
+nav{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+i{
+  color:  rgb(0, 120, 167);;
+}
+i:hover {
+color: black;
+}
+.sourceCode:hover{
+  background-color: rgb(0, 120, 167);
+}
+.letTalk:hover{
+  background-color: white;
+}
+
+.emailMsg p{
+  color: rgb(0, 120, 167);
+}
+.emailMsg p:hover{
+color: white;
+}
+
+.linkdinMsg p{
+  color: rgb(0, 120, 167);
+}
+
+.linkdinMsg p:hover{
+  color: white;
+}
+.flex-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.letTalk{
+color: white;
+background-color: rgb(0, 120, 167);
+}
+
+.letTalk:hover{
+  color:rgb(0, 120, 167);
+  background-color: white;
+  border-color: rgb(0, 120, 167);
+}
+.dwnldResume{
+  color: rgb(0, 120, 167);
+  border-color: rgb(0, 120, 167);
+}
+.dwnldResume:hover{
+  color: white;
+  background-color: rgb(0, 120, 167);
+}
+.liveDemoBtn{
+  color: white;
+  background-color: rgb(0, 120, 167);
+}
+.liveDemoBtn:hover{
+  color: rgb(0, 120, 167);
+  background-color: white;
+  border-color: rgb(0, 120, 167);
+}
+.gitBtn{
+  color:  rgb(0, 120, 167);
+  border-color:  rgb(0, 120, 167);
+}
+.gitBtn:hover{
+  color: white;
+  background-color: rgb(0, 120, 167);
+}
+.card{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+.abtBoldText{
+  color: rgb(0, 120, 167);
+}
+.progress-bar{
+  background-color: rgb(0, 120, 167);
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+}
+
+ul li a{
+ color: #0357a6;;
+}
+
+/* .footer{
+  background-color:rgba(0, 0, 0, 0.295);
+} */
+
+.footericon{
+  color: rgb(255, 179, 0);
+}
+
